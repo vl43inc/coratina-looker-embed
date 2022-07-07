@@ -4,7 +4,8 @@ title: Farm Overview
 permalink: /Farm-Overview/
 ---
 <iframe
-  src="https://invaio.cloud.looker.com/embed/dashboards/193"
+  id= "firstdashboard"
+  src="https://invaio.cloud.looker.com/embed/dashboards/193?embed_domain=https://vl43inc.github.io"
   width="1500"
   height="2000"
   frameborder="0">
