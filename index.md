@@ -18,7 +18,7 @@ title:
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-}style>
+}</style>
 
 <div id="container">
   <div class="vertical-center">
